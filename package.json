@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@mantine/charts": "^9.7.2",
+    "@mantine/core": "^9.7.2",
+    "@mantine/dates": "^9.7.2",
+    "@mantine/form": "^9.7.2",
+    "@mantine/hooks": "^9.7.2",
+    "dayjs": "^1.11.23",
+    "recharts": "^3.10.1"
+  }
+}
